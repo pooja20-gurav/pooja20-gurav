@@ -4,8 +4,9 @@
 - 💞️ I’m looking to collaborate on kaggle or any other platforms.
 - 📫 How to reach me we can use this link https://github.com/pooja20-gurav and My Linkdin Profile - https://www.linkedin.com/in/pooja-gurav-5791461b1/ ,  and - https://public.tableau.com/app/profile/pooja6891  here I have done Data visualization  using Tableau.
 - 😊 Pronoun : She/her
-<!-- - 🌠Fun Fact: -->
+- 🌠Fun Fact: I spend almost 12 hours listening songs everyday.
 
+<!-- < img src ="https://github.com/pooja20-gurav/pooja20-gurav"> -->
 <!--  
 pooja20-gurav/pooja20-gurav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
