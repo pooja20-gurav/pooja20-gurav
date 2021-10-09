@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **on any open source.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/pooja20-gurav](https://github.com/pooja20-gurav)
+- 👨‍💻 All of my projects are available at [https://github.com/pooja20-gurav](https://github.com/pooja20-gurav) , Tableau - https://public.tableau.com/app/profile/pooja6891 ,      Linkdin - https://www.linkedin.com/in/pooja-gurav-5791461b1/
 
 - 💬 Ask me about **Anything**
 
