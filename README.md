@@ -1,4 +1,5 @@
-- <h1 align="center">Hola 👋, I'm Pooja Anand Gurav</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pooja</h1>
+
 <h3 align="center">A passionate AI Enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pooja20-gurav&label=Profile%20views&color=0e75b6&style=flat" alt="pooja20-gurav" /> </p>
