@@ -1,3 +1,7 @@
+
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pooja</h1>
 
 <h3 align="center">A passionate AI Enthusiast from India</h3>
@@ -22,7 +26,7 @@
 
 <!-- <img align="right" alt="Coding" width="370" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"> -->
 
-<img align="right" alt="Coding" width="370" src="https://user-images.githubusercontent.com/81917801/143441368-9faf930b-d96f-496f-be4f-ee828b66726e.gif">
+<!-- <img align="right" alt="Coding" width="370" src="https://user-images.githubusercontent.com/81917801/143441368-9faf930b-d96f-496f-be4f-ee828b66726e.gif"> -->
 
 
 <h3 align="left">Connect with me:</h3>
@@ -36,6 +40,12 @@
 <p align="left"> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pooja20-gurav&show_icons=true&locale=en&layout=compact" alt="pooja20-gurav" /></p>
+
+<!-- <p align="center">
+    <a href="https://github.com/pooja20-gurav/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pooja20-gurav&" alt="pooja20-gurav" /></p>
 
