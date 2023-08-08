@@ -3,7 +3,7 @@
 <!-- <a width="100%"![97740eec00d766f5c7aea558aee70f2d](https://user-images.githubusercontent.com/81917801/143735573-bfffe255-0b04-4cb5-b192-38e009610c1a.png)</a> -->
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pooja</h1>
+<h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pooja</h1>
 
 <h3 align="center">A passionate AI Enthusiast from India</h3>
 
